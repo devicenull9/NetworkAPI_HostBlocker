@@ -1,0 +1,6 @@
+{
+    "networkapi_hostblocker": {
+        "allow_mode": false,
+        "host_table": []
+    }
+}
