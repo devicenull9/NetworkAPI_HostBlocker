@@ -10,10 +10,10 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-set(NETWORKAPI_PATH "/home/user/Documents/NetworkAPI-main")
+set(NETWORKAPI_PATH /home/user/Documents/Development/NetworkAPI-main)
 
 set(SOURCE_FILES
-    "Source/Main.cxx"
+    Source/Main.cxx
 )
 
 add_library(NetworkAPI_HostBlocker SHARED ${SOURCE_FILES})
