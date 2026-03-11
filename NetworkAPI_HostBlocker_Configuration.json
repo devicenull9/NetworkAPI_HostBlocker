@@ -1,6 +1,9 @@
 {
     "networkapi_hostblocker": {
         "allow_mode": false,
-        "host_table": []
+        "host_table": [
+            "first_example.com",
+            "second_example.com"
+        ]
     }
 }
